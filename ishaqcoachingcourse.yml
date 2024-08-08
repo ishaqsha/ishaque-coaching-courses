@@ -27,6 +27,6 @@ spec:
   selector:
     app: ishaquecoachingcourse
   ports:
-    - port: 80
+    - port: 8082
       targetPort: 8082
-  type: LoadBalancer
+  type: NodePort
