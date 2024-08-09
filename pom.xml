@@ -47,12 +47,12 @@
     		<repository>
         		<id>central</id>
         		<name>ip-172-31-42-71.ap-south-1.compute.internal-releases</name>
-        		<url>http://3.111.245.70:8081/artifactory/ishaque-coaching</url>
+        		<url>http://3.111.245.70:8081/artifactory/ishaque-coaching-course</url>
     		</repository>
     		<snapshotRepository>
         		<id>snapshots</id>
         		<name>ip-172-31-42-71.ap-south-1.compute.internal-snapshots</name>
-        		<url>http://3.111.245.70:8081/artifactory/ishaque-coaching</url>
+        		<url>http://3.111.245.70:8081/artifactory/ishaque-coaching-course</url>
     		</snapshotRepository>
 	</distributionManagement>
 
